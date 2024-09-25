@@ -160,3 +160,31 @@ for(; i < 10;) {
 
 - `break` - interrompe a execução do laço
 - `continue` - interrompe a execução atual e passa para a próxima iteração.
+
+## Vetor
+
+```java
+int[] vetor = new int[10];
+```
+
+## Matriz
+
+```java
+int[][] matriz = new int[10][10];
+```
+
+## Array List
+
+```java
+List<String> nomes = new ArrayList<>(); // cria um array de strings
+
+nomes.add("teste"); // adiciona um elemento
+
+System.out.println(nomes.get(0)); // retorna o elemento na posição 0
+
+nomes.remove(0); // remove o elemento na posição 0
+
+System.out.println(nomes.size()); // retorna o tamanho do array
+
+nomes.clear(); // remove todos os elementos
+```
