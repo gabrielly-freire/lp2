@@ -1,0 +1,54 @@
+# Diretórios de build
+target/
+build/
+
+# Arquivos de classe compilados
+*.class
+
+# Arquivos de pacotes
+*.jar
+*.war
+*.ear
+*.nar
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários e de backup
+*~
+*.swp
+*.tmp
+
+# Configurações específicas da IDE (IntelliJ IDEA)
+.idea/
+*.iml
+out/
+
+# Configurações específicas da IDE (Eclipse)
+.settings/
+.classpath
+.project
+
+# Configurações específicas vscode
+.vscode/
+
+# Arquivos do Maven relacionados a versões e backups
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Arquivos do BlueJ (se aplicável)
+*.ctxt
+
+# Arquivos do MacOS que devem ser ignorados
+.DS_Store
+
+# Outros arquivos que podem ser gerados por ferramentas ou sistemas operacionais
+hs_err_pid*
+replay_pid*

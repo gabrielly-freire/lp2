@@ -7,10 +7,10 @@ Disciplina do currículo base do Bacharelado em Tecnologia da Informação. Mini
 - [x] Introdução à Programação Orientada a Objetos;
 - [x] Classes e Objetos: Atributos e Métodos;
 - [ ] Alocação Dinâmica e Coletor de Lixo;
-- [ ] Composição, Encapsulamento e Herança;
-- [ ] Classes Abstratas e Interfaces;
-- [ ] Modularização;
-- [ ] Tratamento de Exceções;
+- [-] Composição, Encapsulamento e Herança;
+- [-] Classes Abstratas e Interfaces;
+- [-] Modularização;
+- [-] Tratamento de Exceções;
 - [ ] Classes Genéricas;
 - [ ] Anotações;
 - [ ] Depuração e Profiling;
